@@ -15,7 +15,7 @@
     <item>
      <ID>I</ID>
      <KEY>001</KEY>
-     <ENTRY>ENDTIME</ENTRY>
+     <ENTRY>End Time</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
@@ -28,6 +28,24 @@
      <ID>I</ID>
      <KEY>003</KEY>
      <ENTRY>Get Last ID</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>004</KEY>
+     <ENTRY>Status</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>005</KEY>
+     <ENTRY>Title</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>006</KEY>
+     <ENTRY>Description</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
    </TPOOL>
